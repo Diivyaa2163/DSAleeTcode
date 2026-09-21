@@ -11,6 +11,7 @@ DSA practice from leetcode
 | [0066-plus-one](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0169-majority-element) |
+| [3979-maximum-valid-pair-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3979-maximum-valid-pair-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0344-reverse-string) |
+## Enumeration
+|  |
+| ------- |
+| [3979-maximum-valid-pair-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3979-maximum-valid-pair-sum) |
 <!---LeetCode Topics End-->
