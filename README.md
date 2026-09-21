@@ -26,6 +26,7 @@ DSA practice from leetcode
 | ------- |
 | [0066-plus-one](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0066-plus-one) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
