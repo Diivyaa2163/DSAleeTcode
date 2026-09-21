@@ -20,6 +20,7 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0344-reverse-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -44,4 +45,8 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
