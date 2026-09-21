@@ -7,8 +7,13 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
