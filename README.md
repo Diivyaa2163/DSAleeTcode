@@ -8,6 +8,7 @@ DSA practice from leetcode
 | ------- |
 | [0001-two-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0169-majority-element) |
@@ -35,6 +36,7 @@ DSA practice from leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -56,4 +58,8 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [3979-maximum-valid-pair-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3979-maximum-valid-pair-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
