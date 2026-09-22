@@ -15,6 +15,7 @@ DSA practice from leetcode
 | [0136-single-number](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0238-product-of-array-except-self) |
 | [3979-maximum-valid-pair-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3979-maximum-valid-pair-sum) |
 ## Hash Table
 |  |
@@ -80,4 +81,8 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
