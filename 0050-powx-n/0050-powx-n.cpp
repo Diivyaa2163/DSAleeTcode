@@ -2,12 +2,13 @@ class Solution {
 public:
     double myPow(double x, int n) {
         long binForm = n;
-        double ans = 1;
 
         if (n < 0) {
             x = 1.0/x;
             binForm = -binForm;
         }
+
+        double ans = 1;
 
                 // EDGE CASES
         if (n == 0) {
