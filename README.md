@@ -10,6 +10,7 @@ DSA practice from leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0229-majority-element-ii) |
@@ -68,6 +69,7 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
 | ------- |
