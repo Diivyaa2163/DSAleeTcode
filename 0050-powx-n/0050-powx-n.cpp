@@ -35,12 +35,12 @@ public:
         double ans = 1;
 
         while (binForm > 0) {
-            if (binForm & 1) {
+            if (binForm % 2 == 1) {
                 ans *= x;
             }
 
             x *= x ; // x^2
-            binForm >>= 1;
+            binForm /= 2;
         }
 
         return ans;
