@@ -17,6 +17,7 @@ DSA practice from leetcode
 | [0169-majority-element](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0238-product-of-array-except-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3979-maximum-valid-pair-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3979-maximum-valid-pair-sum) |
@@ -92,6 +93,7 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
