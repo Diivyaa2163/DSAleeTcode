@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    bool isPossible(vector<int>& weights, int n, int m, int maxAllowedWeights) {
+    bool isPossible(const vector<int>& weights, int n, int m, int maxAllowedWeights) {
 
         int pieces = 1; 
         int count = 0;
@@ -16,15 +16,13 @@ public:
             }
         }
         return pieces <= m;
-        // if (pieces <= m) {
-        //     return true;
-        // }
-        // else {
-        //     return false;
-        // }
     }
 
     int shipWithinDays(vector<int>& weights, int days) {
+
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        
         int sum = 0;
         int maxVal = INT_MIN;
 
