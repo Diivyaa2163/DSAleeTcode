@@ -1,7 +1,7 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& A) {
-
+        // TC: O(n), SC: O(1)
         int n = A.size();
         int pivot = -1;
         for (int i = n-2; i>=0; i--) {
@@ -26,11 +26,11 @@ public:
         }
 
         // 3rd step: REVERSE (pivot+1 to n-1)
-        // reverse(A.begin() + pivot + 1, A.end())
+        reverse(A.begin() + pivot + 1, A.end());
 
-        int i = pivot+1, j = n-1;
-        while(i <= j) {
-            swap(A[i++], A[j--]);
-        }
+        // int i = pivot+1, j = n-1;
+        // while(i <= j) {
+        //     swap(A[i++], A[j--]);
+        // }
     }
 };
