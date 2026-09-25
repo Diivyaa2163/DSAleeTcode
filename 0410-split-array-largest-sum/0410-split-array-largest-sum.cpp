@@ -27,12 +27,19 @@ public:
             return -1;
         }
         int sum = 0;
+        int max_element = 0;
         for (int i = 0; i < n; i++) {
             sum += nums[i];
+            if (nums[i] > max_element) {
+                max_element = nums[i];
+            }
         }
 
+        int st = max_element;
+        int end = sum;
+
         int ans = -1; 
-        int st = 0, end = sum;  // Range of possible ans
+        // int end = sum;  // Range of possible ans
 
         while (st <= end) {  // O(logn) (O(logRange))  = O(logn * n)
             int mid = st + (end - st)/2;
