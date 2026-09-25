@@ -21,6 +21,7 @@ DSA practice from leetcode
 | [0540-single-element-in-a-sorted-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3979-maximum-valid-pair-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3979-maximum-valid-pair-sum) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ DSA practice from leetcode
 | [0540-single-element-in-a-sorted-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Ternary Search
 |  |
 | ------- |
