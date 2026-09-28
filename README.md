@@ -41,6 +41,7 @@ DSA practice from leetcode
 | [0031-next-permutation](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -79,6 +80,7 @@ DSA practice from leetcode
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0344-reverse-string) |
 ## Enumeration
 |  |
