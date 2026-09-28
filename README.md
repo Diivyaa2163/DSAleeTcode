@@ -33,6 +33,7 @@ DSA practice from leetcode
 | [0001-two-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0229-majority-element-ii) |
+| [0567-permutation-in-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ DSA practice from leetcode
 | [0088-merge-sorted-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +84,7 @@ DSA practice from leetcode
 | ------- |
 | [0125-valid-palindrome](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Enumeration
 |  |
@@ -137,4 +140,8 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
