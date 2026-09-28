@@ -1,15 +1,17 @@
 class Solution {
 public:
     void reverseString(vector<char>& s) {
+        // TIME COMPLEXITY: O(n)
         int start = 0;
         int end = s.size() - 1;
 
         while (start < end) {
-            swap(s[start], s[end]);
+            swap(s[start++], s[end--]);
 
-            start++;
-            end--;
+            // start++;
+            // end--;
         }
+
         cout << "Reversed String: ";
         for (int val : s) {
             cout << val << " ";
