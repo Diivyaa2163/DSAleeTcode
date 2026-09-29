@@ -54,6 +54,7 @@ DSA practice from leetcode
 | [0050-powx-n](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0258-add-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
@@ -146,6 +147,7 @@ DSA practice from leetcode
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -155,6 +157,7 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
