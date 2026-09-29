@@ -45,6 +45,7 @@ DSA practice from leetcode
 | [0125-valid-palindrome](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
@@ -86,6 +87,7 @@ DSA practice from leetcode
 | [0125-valid-palindrome](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Enumeration
