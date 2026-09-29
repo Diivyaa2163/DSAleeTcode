@@ -15,11 +15,16 @@ public:
 
         // return num;
 
-        if (num == 9) {
+        if (num == 0) {
             return num;
         }
-        int modulo = num % 9;
-        return modulo;
-
+        if ((num % 9 == 0) && (num > 0)) {
+            int no = 9;
+            return no;
+        }
+        else{
+            int modulo = num % 9;
+            return modulo;
+        }
     }
 };
