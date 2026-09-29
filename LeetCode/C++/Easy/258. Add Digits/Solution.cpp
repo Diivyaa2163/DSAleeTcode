@@ -15,6 +15,9 @@ public:
 
         // return num;
 
+        if (num == 9) {
+            return num;
+        }
         int modulo = num % 9;
         return modulo;
 
