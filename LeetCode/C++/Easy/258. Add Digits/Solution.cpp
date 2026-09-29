@@ -15,8 +15,8 @@ public:
 
         // return num;
 
-        num = num % 9;
-        return num;
+        int modulo = num % 9;
+        return modulo;
 
     }
 };
