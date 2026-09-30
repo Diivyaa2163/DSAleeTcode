@@ -11,13 +11,6 @@ public:
             // Flip the sign for next iteration
             sign = sign * (-1);
         }
-        // N = reverse(stringn.begin(), n.end());
-        // while (N > 0) {
-        //     int digit = N % 10;
-        //     sum = sum + ((+1)*digit);
-        //     N = N / 10;
-        //     sum = sum + ((-1)*digit);
-        // }
         return sum;
     }
 };
