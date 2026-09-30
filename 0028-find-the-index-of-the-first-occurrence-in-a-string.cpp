@@ -1,6 +1,24 @@
+// ===  DATA STRUCTURES AND ALGORITHMS  ===
+// 0028 FIND THE INDEX OF THE FIRST OCCURENCE
+
+//  LEETCODE LINK: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+
+// Time Complexity: O(N.M); 
+// Space Complexity: O(1)
+
+
+#include <iostream>
+#include <string>
+#include <algorithm>
+#include <climits>
+#include <iterator>
+#include <cstring>
+
+
+
 class Solution {
 public:
-    int strStr(string haystack, string needle) {
+    int strStr(std::string haystack, std::string needle) {
         int hLen = haystack.length();
         int nLen = needle.length();
 

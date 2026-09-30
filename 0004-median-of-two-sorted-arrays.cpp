@@ -36,7 +36,7 @@ public:
             int maxLeftX = (partitionX == 0 || nums1.empty()) ? INT_MIN : nums1[partitionX - 1];
             int minRightX = (partitionX >= x || nums1.empty()) ? INT_MAX : nums1[partitionX];
 
-            int maxLeftY = (partitionY == 0 || nums2.empty()) ? INT_MIN : nums2[partitionY - 1];
+            int maxLeftY = (partitionY == 0) ? INT_MIN : nums2[partitionY - 1];
             int minRightY = (partitionY >= y || nums2.empty()) ? INT_MAX : nums2[partitionY];
 
             if (maxLeftX <= minRightY && maxLeftY <= minRightX) {

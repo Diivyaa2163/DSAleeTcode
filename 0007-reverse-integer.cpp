@@ -1,3 +1,17 @@
+// ===  DATA STRUCTURES AND ALGORITHMS  ===
+// 0007 REVERSE INTEGER
+
+//  LEETCODE LINK: https://leetcode.com/problems/reverse-integer
+
+// TIME COMPLEXITY: O(log10(n))
+// SPACE COMPLEXITY: O(n)
+
+#include <iostream>
+#include <algorithm>
+#include <climits>
+
+
+
 class Solution {
 public:
     int reverse(int x) {
