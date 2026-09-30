@@ -52,6 +52,7 @@ DSA practice from leetcode
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0204-count-primes) |
