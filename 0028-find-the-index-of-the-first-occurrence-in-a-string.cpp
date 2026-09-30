@@ -15,7 +15,6 @@
 #include <cstring>
 
 
-
 class Solution {
 public:
     int strStr(std::string haystack, std::string needle) {
@@ -34,8 +33,7 @@ public:
             
             while (j < nLen && haystack[i+j] == needle[j]){
                 j++;
-            }
-            
+            }         
             if (j == nLen) {
                 return i;
             }
