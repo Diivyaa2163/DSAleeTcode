@@ -24,8 +24,8 @@ public:
             return findMedianSortedArrays(nums2, nums1);
         }
 
-        int x = nums1.size();
-        int y = nums2.size();
+        int x = static_cast<int>(nums1.size());
+        int y = static_cast<int>(nums2.size());
         int low = 0;
         int high = x;
 
