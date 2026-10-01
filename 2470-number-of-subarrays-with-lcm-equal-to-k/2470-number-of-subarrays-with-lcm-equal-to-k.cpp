@@ -1,6 +1,8 @@
 class Solution {
 public:
     int subarrayLCM(vector<int>& nums, int k) {
+        // TIME COMPLEXITY: O(n^2 logk)
+        // SPACE COMPLEXITY: O(1)
         int count = 0;
         int n = nums.size();
         for (int i = 0; i < n; i++) {
