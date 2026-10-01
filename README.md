@@ -28,6 +28,7 @@ DSA practice from leetcode
 | [0852-peak-index-in-a-mountain-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1929-concatenation-of-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1929-concatenation-of-array) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3979-maximum-valid-pair-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3979-maximum-valid-pair-sum) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Diivyaa2163/DSALeetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -164,6 +165,7 @@ DSA practice from leetcode
 | ------- |
 | [0258-add-digits](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
 | ------- |
