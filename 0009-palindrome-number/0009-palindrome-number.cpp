@@ -1,6 +1,8 @@
 class Solution {
 public:
     long long int reverse(int x) {
+        // TIME COMPLEXITY: O(logn);
+        // SPACE COMPLEXITY: O(n)
         long long int revNum = 0;
         while (x != 0) {
             int dig = x % 10;
