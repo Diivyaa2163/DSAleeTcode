@@ -28,6 +28,7 @@ DSA practice from leetcode
 | [0852-peak-index-in-a-mountain-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3979-maximum-valid-pair-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3979-maximum-valid-pair-sum) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Diivyaa2163/DSALeetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
@@ -59,6 +60,7 @@ DSA practice from leetcode
 | [0066-plus-one](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0258-add-digits) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2544-alternating-digit-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2544-alternating-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3870-count-commas-in-range) |
@@ -168,6 +170,7 @@ DSA practice from leetcode
 | ------- |
 | [0204-count-primes](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0258-add-digits) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Diivyaa2163/DSALeetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Primality Test
 |  |
