@@ -13,7 +13,7 @@ public:
 
                 long long currentGcd = std::gcd(x, y);
 
-                long long strength = (x*y) / (currentGcd*currentGcd);
+                long long strength = (x*y) / (currentGcd * currentGcd);
 
                 if (strength > maxStrength) {
                     maxStrength = strength;
