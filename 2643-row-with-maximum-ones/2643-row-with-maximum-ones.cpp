@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> rowAndMaximumOnes(vector<vector<int>>& mat) {
+        // TIME COMPLEXITY: O(m*n)
+        // SPACE COMPLEXITY: O(1)
         int maxOnes = 0;
         int bestRowIndex = 0;
 
