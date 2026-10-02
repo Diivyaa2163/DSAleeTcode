@@ -99,6 +99,7 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -115,6 +116,7 @@ DSA practice from leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0410-split-array-largest-sum) |
@@ -209,4 +211,9 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
