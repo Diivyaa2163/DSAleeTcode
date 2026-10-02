@@ -28,6 +28,7 @@ DSA practice from leetcode
 | [0852-peak-index-in-a-mountain-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1572-matrix-diagonal-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1929-concatenation-of-array) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2643-row-with-maximum-ones](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2643-row-with-maximum-ones) |
@@ -220,5 +221,6 @@ DSA practice from leetcode
 ## Matrix
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
