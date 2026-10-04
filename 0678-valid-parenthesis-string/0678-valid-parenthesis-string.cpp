@@ -11,15 +11,15 @@ public:
 
         if (s[i] == '*') {
             // Treat '*' as '('
-            isValid |= isValidString(i + 1, openCount + 1, s, dp);
+            isValid = isValid || isValidString(i + 1, openCount + 1, s, dp);
 
             // Treat '*' as ')'
             if (openCount) {
-                isValid |= isValidString(i + 1, openCount - 1, s, dp);
+                isValid = isValid || isValidString(i + 1, openCount - 1, s, dp);
             }
 
             // Treat '*' as empty
-            isValid |= isValidString(i + 1, openCount, s, dp);
+            isValid = isValid || isValidString(i + 1, openCount, s, dp);
         }
 
         else {
