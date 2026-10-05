@@ -1,9 +1,12 @@
 class Solution {
 public:
-    bool searchMatrix(vector<vector<int>>& mat, int target) { 
+    bool searchMatrix(vector<vector<int>>& mat, int target) {
+        // TIME COMPLEXITY: O(n+m)
+        // SPACE COMPLEXITY: O(1) 
         int m = mat.size();
         int n = mat[0].size();
-        int ro = 0, co = n - 1;
+        int ro = 0;
+        int co = n - 1;
 
         while (co >= 0 && ro < m) {
 
