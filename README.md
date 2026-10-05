@@ -111,6 +111,7 @@ DSA practice from leetcode
 | [0443-string-compression](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0856-score-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Enumeration
 |  |
@@ -172,6 +173,7 @@ DSA practice from leetcode
 | [0020-valid-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0856-score-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -225,6 +227,7 @@ DSA practice from leetcode
 | [0022-generate-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0856-score-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
