@@ -1,6 +1,8 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
+        // TIME COMPLEXITY: O(N)
+        // SPACE COMPLEXITY: O(1)
         int openSt = 0;
         int closSt = 0;
 
