@@ -110,6 +110,7 @@ DSA practice from leetcode
 | [0032-longest-valid-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0567-permutation-in-string) |
@@ -241,6 +242,7 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -249,4 +251,8 @@ DSA practice from leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2643-row-with-maximum-ones) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
