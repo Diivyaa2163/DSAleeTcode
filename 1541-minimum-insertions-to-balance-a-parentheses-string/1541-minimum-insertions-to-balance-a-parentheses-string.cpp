@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minInsertions(string s) {
+        // TIME COMPLEXITY: O(N)
         int n = s.length();
         int result = 0;
         int count = 0;
