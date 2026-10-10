@@ -2,11 +2,11 @@ class Solution {
 public:
     long long minSumSquareDiff(vector<int>& nums1, vector<int>& nums2, int k1, int k2) {
         long long k = 1LL*k1+k2;
-
+        int n = nums1.size();
         vector<int> diff(nums1.size());
 
         int maxVal = 0;
-        for (size_t i = 0; i < nums1.size(); i++) {
+        for (size_t i = 0; i < n; i++) {
             diff[i] = abs(nums1[i] - nums2[i]);
             maxVal = max(maxVal, diff[i]);
         }
@@ -34,14 +34,14 @@ public:
 
         int threshold = low;
 
-        for (size_t i = 0; i < nums1.size(); i++) {
+        for (size_t i = 0; i < n; i++) {
             if (diff[i] > threshold) {
                 k -= (diff[i] - threshold);
                 diff[i] = threshold;
             }
         }
 
-        for (size_t i = 0; i < nums1.size() && k > 0; i++) {
+        for (size_t i = 0; i < n && k > 0; i++) {
             if (diff[i] == threshold && threshold > 0) {
                 diff[i]--;
                 k--;
