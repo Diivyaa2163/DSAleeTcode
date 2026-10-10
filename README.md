@@ -34,6 +34,7 @@ DSA practice from leetcode
 | [1552-magnetic-force-between-two-balls](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1929-concatenation-of-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2643-row-with-maximum-ones](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -97,6 +98,7 @@ DSA practice from leetcode
 | [0169-majority-element](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0229-majority-element-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
 | ------- |
@@ -153,6 +155,7 @@ DSA practice from leetcode
 | [0678-valid-parenthesis-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -172,6 +175,7 @@ DSA practice from leetcode
 | [0852-peak-index-in-a-mountain-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Ternary Search
 |  |
 | ------- |
@@ -278,4 +282,8 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
