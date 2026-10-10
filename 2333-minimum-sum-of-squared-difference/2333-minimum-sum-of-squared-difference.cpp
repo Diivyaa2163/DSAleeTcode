@@ -32,28 +32,28 @@ public:
             }
         }
 
-            int threshold = low;
+        int threshold = low;
 
-            for (size_t i = 0; i < nums1.size(); i++) {
-                if (diff[i] > threshold) {
-                    k -= (diff[i] - threshold);
-                    diff[i] = threshold;
-                }
+        for (size_t i = 0; i < nums1.size(); i++) {
+            if (diff[i] > threshold) {
+                k -= (diff[i] - threshold);
+                diff[i] = threshold;
             }
-
-            for (size_t i = 0; i < nums1.size() && k > 0; i++) {
-                if (diff[i] == threshold && threshold > 0) {
-                    diff[i]--;
-                    k--;
-                }
-            }
-
-            long long int answer = 0;
-            for (long long d : diff) {
-                answer += d * d;
-            }
-
-            return answer;
         }
+
+        for (size_t i = 0; i < nums1.size() && k > 0; i++) {
+            if (diff[i] == threshold && threshold > 0) {
+                diff[i]--;
+                k--;
+            }
+        }
+
+        long long int answer = 0;
+            for (long long d : diff) {
+            answer += d * d;
+        }
+
+        return answer;
+    }
 
 };
