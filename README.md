@@ -37,6 +37,7 @@ DSA practice from leetcode
 | [2333-minimum-sum-of-squared-difference](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2643-row-with-maximum-ones](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3979-maximum-valid-pair-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3979-maximum-valid-pair-sum) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Diivyaa2163/DSALeetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -132,6 +133,7 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3979-maximum-valid-pair-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3979-maximum-valid-pair-sum) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Diivyaa2163/DSALeetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
