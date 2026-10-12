@@ -5,6 +5,7 @@ public:
         // TIME COMPLEXITY: O(K)
         // SPACE COMPLEXITY: O(32) = O(1)
         vector<int> count(32, 0);
+
         for (int &num : nums) {
             for (int b = 0; b < 32; b++) {
                 if(num & (1<<b)) {
