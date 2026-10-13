@@ -7,7 +7,6 @@ public:
         sort(nums.begin(), nums.end(), [](int a, int b){
             return abs(a) > abs(b);
         });
-        // reverse(nums.begin(), nums.end());
 
         int st = 0;
         int end = n - 1;
