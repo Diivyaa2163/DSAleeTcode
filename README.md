@@ -40,6 +40,7 @@ DSA practice from leetcode
 | [2778-sum-of-squares-of-special-elements](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3979-maximum-valid-pair-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3979-maximum-valid-pair-sum) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Diivyaa2163/DSALeetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
@@ -103,6 +104,7 @@ DSA practice from leetcode
 | [0229-majority-element-ii](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0229-majority-element-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -162,6 +164,7 @@ DSA practice from leetcode
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
