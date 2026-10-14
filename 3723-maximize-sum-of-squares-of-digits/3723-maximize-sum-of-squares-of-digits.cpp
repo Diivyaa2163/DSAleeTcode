@@ -1,10 +1,9 @@
 class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
-        if (sum > num * 9) {
-            return "";
-        }
+        if (sum > num * 9) return "";
         //  GREEDY APPROACH
+        // TC: O(num); SC: O(1)
         int nines = sum / 9;
         int remain = sum%9;
 
