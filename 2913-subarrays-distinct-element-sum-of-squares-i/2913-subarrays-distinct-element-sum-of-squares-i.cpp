@@ -1,6 +1,8 @@
 class Solution {
 public:
     int sumCounts(vector<int>& nums) {
+        // TIME COMPLEXITY: O(N^2)
+        // SPACE COMPLEXITY: O(1)
         int n = nums.size();
         int total = 0;
         for (int i = 0; i < n; ++i) {
