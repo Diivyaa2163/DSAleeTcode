@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // TIME COMPLEXITY: O(nlogn)
     typedef long long ll;
     int MOD = 1e9 + 7;
     int n;
