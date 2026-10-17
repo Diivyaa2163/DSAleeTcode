@@ -42,6 +42,7 @@ DSA practice from leetcode
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3979-maximum-valid-pair-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3979-maximum-valid-pair-sum) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Diivyaa2163/DSALeetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -56,6 +57,7 @@ DSA practice from leetcode
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +111,7 @@ DSA practice from leetcode
 | [0229-majority-element-ii](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0229-majority-element-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
