@@ -1,5 +1,7 @@
 class Solution {
-public:
+public: 
+    // Time Complexity: O(n)
+    // Space Complexity: O(n+1)
     typedef long long ll;
     ll MOD = 1e9 + 7;
 
