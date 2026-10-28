@@ -45,6 +45,7 @@ DSA practice from leetcode
 | [2965-find-missing-and-repeated-values](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Diivyaa2163/DSAleeTcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3979-maximum-valid-pair-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/3979-maximum-valid-pair-sum) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Diivyaa2163/DSALeetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
@@ -97,6 +98,7 @@ DSA practice from leetcode
 | [0136-single-number](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Diivyaa2163/DSAleeTcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,6 +164,7 @@ DSA practice from leetcode
 | [0410-split-array-largest-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Diivyaa2163/DSAleeTcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -292,6 +295,7 @@ DSA practice from leetcode
 | [1572-matrix-diagonal-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Diivyaa2163/DSAleeTcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
