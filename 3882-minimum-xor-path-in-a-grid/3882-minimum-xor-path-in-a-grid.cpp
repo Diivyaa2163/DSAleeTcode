@@ -28,16 +28,17 @@ public:
                         dp[i][j].insert(x ^ grid[i][j]);
                     }
                 }   
+            }
         }
-    }
     
-    int ans = INT_MAX;
-    for (int x : dp[m-1][n-1]) 
-    {
-        ans = min(ans, x);
-    }
+        int ans = INT_MAX;
 
-    return ans;
+        for (int x : dp[m-1][n-1]) 
+        {
+        ans = min(ans, x);
+        }
+
+        return ans;
     }
 };
 
