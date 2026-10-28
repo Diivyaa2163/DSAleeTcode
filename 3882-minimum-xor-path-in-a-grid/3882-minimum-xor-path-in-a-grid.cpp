@@ -1,5 +1,5 @@
-class Solution {
-public:
+class Solution { // SPACE COMPLEXITY: O(1) [10^6]
+public:   // TIME COMPLEXITY: O(1) [10^6]                  
     int minCost(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
