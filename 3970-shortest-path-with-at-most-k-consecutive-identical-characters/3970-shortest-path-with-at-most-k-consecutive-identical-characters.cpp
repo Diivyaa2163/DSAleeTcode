@@ -1,8 +1,12 @@
 class Solution {
 public:
-    typedef tuple<int, int, int>T;
+    // TIME COMPLEXITY: O(E*K * log(n*k))
+    // SPACE Complexity: O(n*K + E*K) = O(K(n+E))
 
+
+    typedef tuple<int, int, int>T;
     int shortestPath(int n, vector<vector<int>>& edges, string labels, int k) {
+        
         unordered_map<int, vector<vector<int>>> adj;
 
         for(auto &edge : edges) {
