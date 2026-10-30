@@ -147,6 +147,7 @@ DSA practice from leetcode
 | [1021-remove-outermost-parentheses](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Diivyaa2163/DSAleeTcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -312,6 +313,7 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Diivyaa2163/DSAleeTcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -350,4 +352,12 @@ DSA practice from leetcode
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Diivyaa2163/DSAleeTcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Diivyaa2163/DSAleeTcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
