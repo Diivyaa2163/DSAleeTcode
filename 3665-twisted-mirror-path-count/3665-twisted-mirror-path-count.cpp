@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // TC : O(m * n);    SC : O(m * n)
     int LEFT = 0;
     int UP = 1;
     int MOD = 1e9 + 7;
