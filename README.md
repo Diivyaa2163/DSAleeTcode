@@ -27,6 +27,7 @@ DSA practice from leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Diivyaa2163/DSAleeTcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -85,6 +86,7 @@ DSA practice from leetcode
 | [0066-plus-one](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Diivyaa2163/DSALeetcode/tree/master/0258-add-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Diivyaa2163/DSAleeTcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Diivyaa2163/DSALeetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2544-alternating-digit-sum](https://github.com/Diivyaa2163/DSALeetcode/tree/master/2544-alternating-digit-sum) |
